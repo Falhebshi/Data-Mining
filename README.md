@@ -1,8 +1,8 @@
 # Data-Mining
 ## We chose this dataset because it highlights employee performance and workplace challenges, we think it is important because it helps improve quality, reduce errors, and increase efficiency, and our motivation is to support better decisions that enhance productivity.
-# group Member 
+# group Members
 -dalia Alotaibi  
--fanar  
--fatimah  
+-fanar Barboud    
+-fatimah Alshabhi   
 -jumana alhumud  
 -Hessa Alarifi  
