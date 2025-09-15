@@ -14,8 +14,8 @@ We chose this dataset because it highlights employee performance and workplace c
 
 
 # Group Members
--dalia Alotaibi  
--fanar Barboud    
--fatimah Alshabhi   
--jumana alhumud  
+-Dalia Alotaibi  
+-Fanar Barboud    
+-Fatimah AlHebshi   
+-Jumana Alhumud  
 -Hassah Alarife 
